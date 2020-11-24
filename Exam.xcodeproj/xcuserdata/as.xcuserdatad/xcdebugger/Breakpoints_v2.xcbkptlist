@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "67749E64-D8AC-496D-8FEA-D48858B775A2"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "5D915CB9-3081-4E98-8E95-5F353711D059"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Exam/Cells/ShoeImageCell.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "22"
+            endingLineNumber = "22"
+            landmarkName = "ShoeImageCell"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  uuid = "5D915CB9-3081-4E98-8E95-5F353711D059 - ddb23d9314349033"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Exam.ShoeImageCell.delegate.getter : Swift.Optional&lt;Exam.DetailsViewDelegate&gt;"
+                  moduleName = "Exam"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/as/Desktop/testing/Exam/Exam/Cells/ShoeImageCell.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "22"
+                  endingLineNumber = "22"
+                  offsetFromSymbolStart = "135">
+               </Location>
+               <Location
+                  uuid = "5D915CB9-3081-4E98-8E95-5F353711D059 - 1ad20fcfd7105027"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Exam.ShoeImageCell.delegate.setter : Swift.Optional&lt;Exam.DetailsViewDelegate&gt;"
+                  moduleName = "Exam"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/as/Desktop/testing/Exam/Exam/Cells/ShoeImageCell.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "22"
+                  endingLineNumber = "22"
+                  offsetFromSymbolStart = "181">
+               </Location>
+               <Location
+                  uuid = "5D915CB9-3081-4E98-8E95-5F353711D059 - 388b2c45302f036"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Exam.ShoeImageCell.delegate.modify : Swift.Optional&lt;Exam.DetailsViewDelegate&gt;"
+                  moduleName = "Exam"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/as/Desktop/testing/Exam/Exam/Cells/ShoeImageCell.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "65">
+               </Location>
+               <Location
+                  uuid = "5D915CB9-3081-4E98-8E95-5F353711D059 - 74e3d336e0c1c225"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Exam.ShoeImageCell.delegate.modify : Swift.Optional&lt;Exam.DetailsViewDelegate&gt; with unmangled suffix &quot;.resume.0&quot;"
+                  moduleName = "Exam"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/as/Desktop/testing/Exam/Exam/Cells/ShoeImageCell.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "22"
+                  endingLineNumber = "22"
+                  offsetFromSymbolStart = "96">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
